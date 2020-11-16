@@ -5,3 +5,6 @@
  
 - Урок 2. Дискретные случайные величины. Закон распределения вероятностей. Биномиальный закон распределения. Распределение Пуассона.
   - [X] [Практическое задание 2](https://github.com/Rusta12/Theory-of-Probability-and-Mathematical-Statistics/blob/main/HW_theory_and_mathematics_2.ipynb)
+  
+- Урок 3. Описательная статистика. Качественные и количественные характеристики популяции. Графическое представление данных.
+  - [X] [Практическое задание 3](https://github.com/Rusta12/Theory-of-Probability-and-Mathematical-Statistics/blob/main/HW_theory_and_mathematics_3.ipynb)
